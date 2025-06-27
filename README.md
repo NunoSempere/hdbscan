@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/NunoSempere/hdbscan"
+	"github.com/NunoSempere/hdbscan/hdbscan"
 )
 
 func main() {
