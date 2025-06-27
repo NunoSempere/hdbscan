@@ -1,4 +1,4 @@
-module github.com/NunoSempere/hdbscan/v2
+module github.com/NunoSempere/hdbscan
 
 
 go 1.13
