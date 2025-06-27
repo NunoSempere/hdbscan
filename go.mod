@@ -1,4 +1,4 @@
-module github.com/bringyour/cluster
+module github.com/NunoSempere/hdbscan
 
 go 1.13
 
